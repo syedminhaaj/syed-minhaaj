@@ -23,10 +23,13 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=syedminhaaj&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=syedminhaaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
