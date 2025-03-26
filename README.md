@@ -1,35 +1,75 @@
-# syed-minhaaj
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# Syed Minhaj 👨‍💻 🚀  
 
-# Syed Minhaj 👋
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-**Software Engineer | Full Stack Developer**  
+**Software Engineer | Full Stack Developer | Cloud Enthusiast**  
 
-# 💫 About Me:
-🔭 I'm currently working on: Building innovative web applications <br>🌱 Learning: TypeScript, Next.js, and Cloud technologies <br>🤝 Looking to: Collaborate on Open-Source Projects <br>🚀 Portfolio: [Your Portfolio Link](https://main.d329vn699owsnq.amplifyapp.com/home) <br> 📫 Contact me: [syedminhaaj@gmail.com](mailto:your-email@example.com) <br>⚡ Fun fact: Coding is my passion!  
+## 💡 About Me  
+🔹 **7+ years of experience** in full-stack development, specializing in **Angular, React, and Java/Spring Boot**.  
+🔹 Passionate about **building scalable, high-performance applications** and delivering **customer-centric solutions**.  
+🔹 Experienced in **AWS, Azure, and Firebase** for cloud-based development & deployments.  
+🔹 **Tech Lead & Mentor**, guiding teams to build efficient and robust applications.  
+🔹 Currently pursuing **MBA in Business Administration** at **International Business University, Canada**.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedminhaaj/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/syedminhaaj)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedminhaaj@gmail.com)  
+📌 **Portfolio:** [View My Work](https://main.d329vn699owsnq.amplifyapp.com/home)  
+📧 **Email:** [syedminhaaj@gmail.com](mailto:syedminhaaj@gmail.com)  
+💼 **LinkedIn:** [syedminhaaj](https://linkedin.com/in/syedminhaaj/)  
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+---  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedminhaaj&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact)
+## 🔥 Tech Stack & Tools  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedminhaaj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### **Frontend Development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### **Backend Development**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
+### **Database & Cloud**  
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+### **DevOps & Tools**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![JIRA](https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedminhaaj&theme=radical&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact)  
+
+---
+
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+
+---
+
+## 🎯 Open Source Contributions  
+🔹 Actively contributing to **open-source projects** in **React, Angular, and Cloud technologies**.  
+🔹 Open to **collaborations** on innovative and impactful projects.  
+
+🔗 **Let's Connect!** [LinkedIn](https://linkedin.com/in/syedminhaaj/) | [GitHub](https://github.com/syedminhaaj) | [Email](mailto:syedminhaaj@gmail.com)  
+
+---
+
+## 🚀 Fun Fact  
+⚡ Coding isn’t just my profession—**it’s my passion!** I enjoy solving complex problems, mentoring developers, and contributing to the tech community.  
