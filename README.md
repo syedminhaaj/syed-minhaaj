@@ -67,10 +67,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=syedminhaaj&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact)  
+📊 GitHub Stats & Activity
+<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> </td> <td align="center">  </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact" /> </td> </tr> </table> 
 
 ---
 
