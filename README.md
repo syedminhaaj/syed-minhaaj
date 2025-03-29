@@ -2,7 +2,7 @@
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-**Software Engineer | Full Stack Developer | Cloud Enthusiast**  
+**Software Engineer | Full Stack Developer | Angular | React | Java | AWS | Azure | MySql**  
 
 ## 💡 About Me  
 🔹 **7+ years of experience** in full-stack development, specializing in **Angular, React, and Java/Spring Boot**.  
