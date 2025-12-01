@@ -67,15 +67,25 @@
 
 ---
 
-📊 GitHub Stats & Activity
-<table> <tr> <td align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syedminhaaj&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /> </td> <td align="center">  </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedminhaaj&theme=radical&hide_border=false&layout=compact" /> </td> </tr> </table> 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Syed's GitHub Stats](https://github-readme-stats-git-masterorg-githubstats.vercel.app/api?username=syedminhaaj&theme=radical&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-git-masterorg-githubstats.vercel.app/api/top-langs/?username=syedminhaaj&layout=compact&theme=radical)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies][(https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-readme-stats-git-masterorg-githubstats.vercel.app/api?username=syedminhaaj
-)  
 
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 ---
 
 ## 🎯 Open Source Contributions  
