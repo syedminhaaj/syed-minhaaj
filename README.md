@@ -11,7 +11,7 @@
 🔹 **Tech Lead & Mentor**, guiding teams to build efficient and robust applications.  
 🔹 Currently pursuing **MBA in Business Administration** at **International Business University, Canada**.  
 
-📌 **Portfolio:** [View My Work](https://main.d329vn699owsnq.amplifyapp.com/home)  
+📌 **Portfolio:** [View My Work](https://minhajportfolio.onrender.com/)  
 📧 **Email:** [syedminhaaj@gmail.com](mailto:syedminhaaj@gmail.com)  
 💼 **LinkedIn:** [syedminhaaj](https://linkedin.com/in/syedminhaaj/)  
 
@@ -73,7 +73,8 @@
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![GitHub Trophies][(https://github-profile-trophy.vercel.app/?username=syedminhaaj&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github-readme-stats-git-masterorg-githubstats.vercel.app/api?username=syedminhaaj
+)  
 
 ---
 
